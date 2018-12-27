@@ -1,0 +1,27 @@
+{
+  "name": "odata-4g",
+  "version": "1.0.0",
+  "description": "odata(v4) generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odata",
+    "odata-v4",
+    "generator"
+  ],
+  "author": "liu xing",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.23.0",
+    "xml2js": "^0.4.19",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "@types/xml2js": "^0.4.3",
+    "@types/yargs": "^12.0.4",
+    "typescript": "^3.2.2"
+  }
+}
